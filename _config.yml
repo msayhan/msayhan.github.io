@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Murat Seçkin Ayhan"
 title_separator          : "-"
-name                     : &name "Murat Seçkin Ayhan, PhD"
+name                     : &name "Murat Seçkin Ayhan"
 description              : &description "personal description"
 url                      : https://msayhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Murat Seçkin Ayhan"
-  avatar           : "profile.JPG"
+  avatar           : "profile.png"
   bio              : "Seasoned researcher with extensive experience in AI and its applications to medical imaging and diagnostics"
   location         : "London, UK"
   employer         :
