@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer scientist by training and hold a Senior Research Fellow position at [the UCL Institute of Ophthalmology](https://www.ucl.ac.uk/ioo/) with an honorary appointment at [Moorfields Eye Hospital](https://www.moorfields.nhs.uk). Enjoying the world's largest ophthalmic bioresources via [INSIGHT Health Data Research Hub](https://www.insight.hdrhub.org), we develop medical AI for the analyses of retinal images obtained from different imaging modalities and evaluate their performances in diverse clinical scenarios, under the leadership of [Prof. Pearse Keane](https://www.ucl.ac.uk/ioo/people/pearse-keane) and [Prof. Daniel Alexander](https://profiles.ucl.ac.uk/3589). 
+I am a computer scientist by training and hold a Senior Research Fellow position at [the UCL Institute of Ophthalmology](https://www.ucl.ac.uk/ioo/) with an honorary appointment at [Moorfields Eye Hospital](https://www.moorfields.nhs.uk). Enjoying the world's largest ophthalmic bioresource via [INSIGHT Health Data Research Hub](https://www.insight.hdrhub.org), we develop medical AI for the analyses of retinal images obtained from different imaging modalities and evaluate their performances in diverse clinical scenarios, under the leadership of [Prof. Pearse Keane](https://www.ucl.ac.uk/ioo/people/pearse-keane) and [Prof. Daniel Alexander](https://profiles.ucl.ac.uk/3589). 
 
 For a quick dive into our research, I urge you to take a look at our recent paper: [A foundation model for generalizable disease detection from retinal images](https://www.nature.com/articles/s41586-023-06555-x).
 
