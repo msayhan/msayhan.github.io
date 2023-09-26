@@ -32,4 +32,4 @@ Prior to the researcher positions above, I briefly worked as an Assistant Profes
 
 ---
 
-Before all that magic above, I received my BSc. (_3rd ranked_) and MSc. degrees from [the Department of Computer Engineering](https://ceng.baskent.edu.tr/) at Baskent University in 2004 and 2007, respectively. 
+Before all that magic above, I received my BSc. (_3rd rank_) and MSc. degrees from [the Department of Computer Engineering](https://ceng.baskent.edu.tr/) at Baskent University in 2004 and 2007, respectively. 
