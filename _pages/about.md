@@ -33,7 +33,7 @@ Thanks to my engagement in review and rebuttal cycles, I also received the Outst
 
 ---
 
-Prior to the researcher positions above, I briefly worked as an Assistant Professor at the Department of Computer Engineering at [Isik University](https://www.isikun.edu.tr/international) in Istanbul, Turkey upon the completion of my PhD research in 2015 at [the Center for Advanced Computer Studies (CACS)](https://computing.louisiana.edu/cacs-research) at [the University of Louisiana at Lafayette](https://louisiana.edu). 
+Prior to the researcher positions described above, I briefly worked as an Assistant Professor at the Department of Computer Engineering at [Isik University](https://www.isikun.edu.tr/international) in Istanbul, Turkey upon the completion of my PhD research in 2015 at [the Center for Advanced Computer Studies (CACS)](https://computing.louisiana.edu/cacs-research) at [the University of Louisiana at Lafayette](https://louisiana.edu). 
 <!-- During my PhD studies, I was pseudo-supervised by [Prof. Vijay Raghavan](https://people.cmix.louisiana.edu/vijay/). -->
 In my research, I focused on computerized diagnosis of Alzheimer's disease from neuroimages, e.g., MRI or PET scans. 
 
