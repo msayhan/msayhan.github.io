@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-autumn-teaching
 venue: "Division of Computing and Software Systems (CSS), UW Bothell"
-date: 2025-24-09
+date: 2025-01-01
 location: "Bothell, Washington"
 ---
 
