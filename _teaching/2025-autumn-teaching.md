@@ -4,13 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-autumn-teaching
 venue: "Division of Computing and Software Systems (CSS), UW Bothell"
-date: 2025-09-24
-location: "Bothell, Washington"
+date: 2015-01-01
+location: "City, Country"
 ---
 
-For details and course content, please, visit Canvas, 
-<!-- [Canvas](https://canvas.uw.edu),  -->
-the official learning management system of the UW. 
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
