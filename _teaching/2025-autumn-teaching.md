@@ -1,11 +1,11 @@
 ---
 title: "CSS 342 Data Structures, Algorithms, and Discrete Mathematics I"
 collection: teaching
-type: "Workshop"
+type: "Core requirement, undergraduate course"
 permalink: /teaching/2025-autumn-teaching
 venue: "Division of Computing and Software Systems (CSS), UW Bothell"
-date: 2015-01-01
-location: "City, Country"
+date: 2025-09-24
+location: "Bothell, Washington"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
