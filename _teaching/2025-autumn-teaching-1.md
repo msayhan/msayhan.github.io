@@ -4,7 +4,7 @@ collection: teaching
 type: "Core requirement, undergraduate course"
 permalink: /teaching/2025-autumn-teaching-1
 venue: "Division of Computing and Software Systems (CSS), UW Bothell"
-date: Autumn 2025
+date: 2025-24-09
 location: "Bothell, WA"
 ---
 
