@@ -8,8 +8,7 @@ date: 2025-01-01
 location: "Bothell, Washington"
 ---
 
-For details and course content, please, visit Canvas, 
-<!-- [Canvas](https://canvas.uw.edu),  -->
+For details and course content, please, visit [Canvas](https://canvas.uw.edu), 
 the official learning management system of the UW. 
 
 Heading 1
