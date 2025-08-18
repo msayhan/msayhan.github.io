@@ -8,13 +8,13 @@ date: Autumn 2025
 location: "Bothell, WA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+For details and course content, please, visit Canvas, the official learning management system of the UW. 
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
