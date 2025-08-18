@@ -2,7 +2,7 @@
 title: "CSS 342 Data Structures, Algorithms, and Discrete Mathematics I"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-9-24-autumn2025 # YEAR-MONTH-DAY-title.MARKUP
+permalink: /teaching/2025-teaching-autumn2025 
 venue: "Division of Computing and Software Systems (CSS), UW Bothell"
 date: 2025-24-09
 location: "Bothell, WA"
