@@ -1,11 +1,11 @@
 ---
 title: "Guiding vision and objectives"
 collection: research
-# type: "Undergraduate course"
+type: "Undergraduate course"
 permalink: /research/research
-# venue: "Division of Computing and Software Systems (CSS), UW Bothell"
-# date: 2025-01-01
-# location: "Bothell, Washington"
+venue: "Division of Computing and Software Systems (CSS), UW Bothell"
+date: 2025-01-01
+location: "Bothell, Washington"
 ---
 
 AI is great, is it not? 
