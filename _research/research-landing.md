@@ -1,5 +1,5 @@
 ---
-title: "Guiding vision and objectives"
+# title: "Guiding vision and objectives"
 collection: research
 # type: ""
 permalink: /research/research-landing
