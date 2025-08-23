@@ -1,9 +1,9 @@
 ---
 title: "Guiding vision and objectives"
 collection: research
-type: "Undergraduate course"
+type: ""
 permalink: /research/2025-research_landing
-venue: "Division of Computing and Software Systems (CSS), UW Bothell"
+venue: ""
 date: 2025-01-01
 # location: "Bothell, Washington"
 ---
