@@ -155,9 +155,9 @@
 
     .page__title {
       font-size: $type-size-2;
-      // MSA added the lines below
-      display: none; 
-      // MSA
+      // // MSA added the lines below
+      // display: none; 
+      // // MSA
 
       @include breakpoint($small) {
         font-size: $type-size-1;

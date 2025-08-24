@@ -1,5 +1,5 @@
 ---
-title: "Teaching philosophy"
+title: "Philosophy"
 collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/2030-teaching-landing
