@@ -2,9 +2,9 @@
 title: "Philosophy"
 collection: teaching
 # type: "Undergraduate course"
-permalink: /teaching/2030-teaching-landing
+permalink: /teaching/2050-teaching-landing
 # venue: "Division of Computing and Software Systems (CSS), UW Bothell"
-# date: 2030-01-01
+# date: 2050-01-01
 # location: "Bothell, Washington"
 ---
 
