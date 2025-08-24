@@ -37,9 +37,9 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
-  // // MSA added the lines below
-  // display: none; 
-  // // MSA
+  // MSA added the lines below
+  display: none; 
+  // MSA
 
   & + .page__meta {
     margin-top: -0.5em;
