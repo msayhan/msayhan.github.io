@@ -252,6 +252,9 @@
 .page__meta-title {
   margin-bottom: 10px;
   font-size: $type-size-6;
+  // MSA added the lines below
+  display: none; 
+  // MSA
   text-transform: uppercase;
 }
 
