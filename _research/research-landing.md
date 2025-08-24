@@ -16,7 +16,7 @@ AI promises to transform healthcare by not only improving clinical workflows and
 
 Building upon the vision of algorithmic peers in medicine, I develop principled machine learning approaches that exploit diverse data committed to healthcare repositories while prioritizing the safety and well-being of their users and society. I work closely with medical experts in order to understand their needs and challenges, distill them into precise learning problems, solve them by efficient and interpretable methods and ultimately validate the solutions in downstream scenarios. 
 
-
+For a list of publications, please, visit my [Google Scholar](https://scholar.google.com/citations?user=ZX9sqrkAAAAJ&hl=en) profile. 
 <!-- 
 
 Heading 2
