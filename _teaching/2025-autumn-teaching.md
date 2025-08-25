@@ -8,9 +8,7 @@ date: 2025-01-01
 location: "Bothell, Washington"
 ---
 
-Autumn 2025, UW Bothell. 
-
-For details and course content, please, visit [Canvas](https://canvas.uw.edu), 
+UW Bothell, Autumn 2025. For details and course content, please, visit [Canvas](https://canvas.uw.edu), 
 the official learning management system of the UW. 
 
 <!-- Heading 1
