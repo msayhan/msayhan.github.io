@@ -216,6 +216,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  bio: #msa added collection
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
