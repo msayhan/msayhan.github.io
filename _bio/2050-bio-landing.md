@@ -1,5 +1,5 @@
 ---
-title: "Bio"
+title: "Biography"
 collection: bio
 # type: ""
 permalink: /bio/2050-bio-landing
