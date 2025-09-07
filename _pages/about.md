@@ -10,7 +10,7 @@ redirect_from:
 <!-- <h2>Hello!</h2> -->
 <p style="font-size:24px">Hello!</p>
 
-I am an “incoming” tenure-track Assistant Professor at the Division of Computing and Software Systems (CSS) at the University of Washington Bothell (UWB). Prior to joining UWB, I performed my academic and research activities at University College London (2022-2025) and the University of Tübingen (2017-2022). I also briefly worked as an Assistant Professor at the Department of Computer Engineering, Isık University in Istanbul (2015-2017) upon the completion of my graduate studies at the University of Louisiana at Lafayette. 
+I am an “incoming” tenure-track Assistant Professor at the Department of Computing and Software Systems (CSS) at the University of Washington Bothell (UWB). Prior to joining UWB, I performed my academic and research activities at University College London (2022-2025) and the University of Tübingen (2017-2022). I also briefly worked as an Assistant Professor at the Department of Computer Engineering, Isık University in Istanbul (2015-2017) upon the completion of my graduate studies at the University of Louisiana at Lafayette. 
 
 I received my bachelor’s degree in Computer Engineering from Baskent University in Ankara, Turkey. 
 
